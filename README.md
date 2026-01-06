@@ -1,15 +1,16 @@
 # location-vehicule
 Plateforme mettant en relation des propriétaires de véhicules, particuliers comme professionnels, et des conducteurs (sur le modèle de Getaround).
 
-# Lancement avec Intellij
+# Lancement avec Intellij ou VSC
 Télécharger ou cloner le repo github
 
-Ouvrir Intellij > Ouvrir projet > Sélectionner le dossier
+Ouvrir Intellij ou VSC > Ouvrir projet > Sélectionner le dossier
 
-Pour lancer l'application, exécuter le script suivant:
+
+Exécuter le script suivant :
 - src/main/java/application.java
 
-URL de l'application :
+Coller l'URL suivante dans un navigateur :
 - http://localhost:8080
 
 Gestion de la BD :
