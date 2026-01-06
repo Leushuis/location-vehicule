@@ -7,7 +7,7 @@ Télécharger ou cloner le repo github
 Ouvrir Intellij > Ouvrir projet > Sélectionner le dossier
 
 Pour lancer l'application, exécuter le script suivant:
-  src/main/java/application.java
+- src/main/java/application.java
 
 URL de l'application :
 - http://localhost:8080
