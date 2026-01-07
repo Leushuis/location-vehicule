@@ -12,5 +12,20 @@ public class HelloController {
         model.addAttribute("message", "Hello Thymeleaf");
         return "index"; // maps to templates/index.html
     }
+    @GetMapping("/visiteur")
+    public String visiteur(Model model) {
+        model.addAttribute("message", "Hello visiteur");
+        return "index"; // maps to templates/index.html
+    }
+    @GetMapping("/loueur")
+    public String loueur(Model model) {
+        model.addAttribute("message", "Hello loueur");
+        return "index"; // maps to templates/index.html
+    }
+    @GetMapping("/agent")
+    public String agent(Model model) {
+        model.addAttribute("message", "Hello agent");
+        return "index"; // maps to templates/index.html
+    }
 
 }

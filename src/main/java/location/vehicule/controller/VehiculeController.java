@@ -1,3 +1,5 @@
+
+/*
 package location.vehicule.controller;
 
 import location.vehicule.model.Vehicule;
@@ -5,6 +7,7 @@ import location.vehicule.repository.VehiculeRepository;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
+
 
 @RestController
 @RequestMapping("/api/vehicules")
@@ -41,4 +44,6 @@ public class VehiculeController {
         vehiculeRepository.deleteById(id);
     }
 }
+
+ */
 
